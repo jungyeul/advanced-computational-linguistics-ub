@@ -14,3 +14,5 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
 |lecture | | | [Chap. 12, [Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [slides] |
 |lecture | | | [Chap. 13, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [slides] |
 
+## Important Date
+* ACL 2019, Submission deadline (long & short papers): March 4 ([site](http://www.acl2019.org/EN/call-for-papers.xhtml))
