@@ -23,4 +23,11 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
 
 
 ## Current Projects
-* TBD
+* Chen,Xuejiao: word embedding 
+* Li,Wenqi: graph-based dependency parsing
+* Liu,Maggie: language proficiency
+* Pacquetet,Erin: corpus merge
+* Qiu,Mengyang: grammar error correction
+* Shyam Rao,Shruthi: parsing with alignment
+* Swami,Chinmay: ddi
+* Soper,Elizabeth: nepali
