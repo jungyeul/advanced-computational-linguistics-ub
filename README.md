@@ -34,4 +34,3 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
 * Qiu,Mengyang: grammar error correction
 * Shyam Rao,Shruthi: parsing with alignment
 * Swami,Chinmay: ddi
-* Soper,Elizabeth: nepali
