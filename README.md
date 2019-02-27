@@ -36,4 +36,4 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
 * Swami,Chinmay: ddi
 
 ## office-hours
-Fridays 8:00-10:00AM
+Fridays 9:00-10:00AM
