@@ -17,6 +17,7 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
 | |  | johnson:1998:CL | [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)] |
 | |  | collins:1999 | [[Head-Driven Statistical Models for Natural Language Parsing](http://www.cs.columbia.edu/~mcollins/papers/thesis.ps)] |
 | |  | bikel:2004:CL | [[Intricacies of Collins' Parsing Model](https://doi.org/10.1162/0891201042544929)] |
+||| klein-manning:2004:ACL | [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061)]
 
 
 ## Important Dates
