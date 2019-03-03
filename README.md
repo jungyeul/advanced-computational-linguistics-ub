@@ -13,6 +13,8 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on
 |lecture | Feb 12 | | [Chap. 11, [Syntactic Parsing](https://web.stanford.edu/~jurafsky/slp3/11.pdf)], [[slides](https://www.overleaf.com/read/zdkqzkqqdqqh)] |
 |lecture | Feb 19 | | [Chap. 12, [Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides](https://www.overleaf.com/read/ghdgbbpnvcqc)] |
 |lecture | Feb 26 | | [Chap. 13, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/wzbgndjdhxhr)] |
+| | Mar 7 | | [the first workplan due] |
+| | Mar 26 | | [the second workplan due] |
 | |  | **Paper readings** |  |
 | |  | johnson:1998:CL | [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)] |
 | |  | collins:1999 | [[Head-Driven Statistical Models for Natural Language Parsing](http://www.cs.columbia.edu/~mcollins/papers/thesis.ps)] |
