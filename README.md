@@ -1,6 +1,6 @@
 ## advanced-computational-linguistics-ub, spring 2019
 
-advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019)
+advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on syntactic parsing and parsing using unsupervised learning. 
 
 ## Schedule and Syllabus 
 |Event	| Date |	Description	 |Course Materials |
