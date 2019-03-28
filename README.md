@@ -16,13 +16,9 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on
 | | Mar 7 | | [the first workplan due] |
 | | Mar 26 | | [the second workplan due] |
 | |  | **Paper readings** |  |
-| | Mar 12  | johnson:1998:CL | [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)] |
-| | Mar 12  | klein-manning:2001:ACL | [[Parsing with Treebank Grammars](https://aclanthology.info/papers/P01-1044/p01-1044)] |
-| | Mar 12  | klein-manning:2003:ACL | [[Accurate Unlexicalized Parsing](https://aclanthology.info/papers/P03-1054/p03-1054)] |
-| | Mar 12  | klein-manning:2003:NIPS | [[Fast Exact Inference with a Factored Model](https://papers.nips.cc/paper/2325-fast-exact-inference-with-a-factored-model-for-natural-language-parsing)] |
-| |  | collins:1999 | [[Head-Driven Statistical Models for Natural Language Parsing](http://www.cs.columbia.edu/~mcollins/papers/thesis.ps)] |
-| |  | bikel:2004:CL | [[Intricacies of Collins' Parsing Model](https://doi.org/10.1162/0891201042544929)] |
-||| klein-manning:2004:ACL | [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061)]
+| | Mar 28  |  | <ul><li>johnson:1998:CL, [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)]</li> <li>klein-manning:2001:ACL, [[Parsing with Treebank Grammars](https://aclanthology.info/papers/P01-1044/p01-1044)]</li> <li>klein-manning:2003:ACL, [[Accurate Unlexicalized Parsing](https://aclanthology.info/papers/P03-1054/p03-1054)]</li> </ul>  |
+||| Apr 2 | project progress presentation ]
+||| Apr 9 | klein-manning:2004:ACL, [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061)]
 
 
 ## Important Dates
@@ -32,9 +28,9 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on
 
 
 ## Current Projects
-* Chen,Xuejiao: word embedding 
+* Chen,Xuejiao: word embedding
 * Li,Wenqi: graph-based dependency parsing
-* Liu,Maggie: language proficiency
+* Liu,Maggie: language proficiency (with Patil, Apurva)
 * Pacquetet,Erin: corpus merge
 * Qiu,Mengyang: grammar error correction
 * Shyam Rao,Shruthi: parsing with alignment
