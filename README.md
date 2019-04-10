@@ -18,6 +18,7 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on
 | | Since Mar 28 | **Paper readings** |  |
 | |   |  | <ul><li>johnson:1998:CL, [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)]</li> <li>klein-manning:2001:ACL, [[Parsing with Treebank Grammars](https://aclanthology.info/papers/P01-1044/p01-1044)]</li> <li>klein-manning:2003:ACL, [[Accurate Unlexicalized Parsing](https://aclanthology.info/papers/P03-1054/p03-1054)]</li> </ul>  |
 |||  | <ul><li>klein-manning:2004:ACL, [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061) </li> <li>[Inside–outside algorithm](https://en.wikipedia.org/wiki/Inside–outside_algorithm)</li> <li>drozdov-EtAl:2019:NAACL, [[Unsupervised Latent Tree Induction](http://arxiv.org/abs/1904.02142)]</li></ul>  |
+|||  | <ul><li>choi-yoo-lee:2018:AAAI, [[Learning to Compose Task-Specific Tree Structures](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16682/16055) </li> <li>cohen-gimpel-smith:2008:NIPS, [[Logistic Normal Priors for Unsupervised Probabilistic Grammar Induction](https://papers.nips.cc/paper/3559-logistic-normal-priors-for-unsupervised-probabilistic-grammar-induction.pdf)]</li> <li>htut-cho-bowman:2018:EMNLP, [[Grammar Induction with Neural Language Models](https://aclweb.org/anthology/papers/D/D18/D18-1544/)]</li></ul>  |
 
 
 ## Important Dates
