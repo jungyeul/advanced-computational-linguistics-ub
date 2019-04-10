@@ -17,7 +17,7 @@ advanced computational linguistics (LIN/CSE 667) at UB (Spring 2019), focused on
 | | Mar 26 | | [the second workplan due] |
 | | Since Mar 28 | **Paper readings** |  |
 | |   |  | <ul><li>johnson:1998:CL, [[PCFG Models of Linguistic Tree Representations](http://www.aclweb.org/anthology/J98-4004)]</li> <li>klein-manning:2001:ACL, [[Parsing with Treebank Grammars](https://aclanthology.info/papers/P01-1044/p01-1044)]</li> <li>klein-manning:2003:ACL, [[Accurate Unlexicalized Parsing](https://aclanthology.info/papers/P03-1054/p03-1054)]</li> </ul>  |
-|||  | <ul><li>klein-manning:2004:ACL, [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061) </li> <li>[Inside–outside algorithm](https://en.wikipedia.org/wiki/Inside–outside_algorithm)</li> <li>drozdov-EtAl:2019, [[Unsupervised Latent Tree Induction](http://arxiv.org/abs/1904.02142)]</li></ul>  |
+|||  | <ul><li>klein-manning:2004:ACL, [[Corpus-Based Induction of Syntactic Structure](http://aclweb.org/anthology/P04-1061) </li> <li>[Inside–outside algorithm](https://en.wikipedia.org/wiki/Inside–outside_algorithm)</li> <li>drozdov-EtAl:2019:NAACL, [[Unsupervised Latent Tree Induction](http://arxiv.org/abs/1904.02142)]</li></ul>  |
 
 
 ## Important Dates
